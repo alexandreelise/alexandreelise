@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hello Super Joomlers!!! 👋
 
-<!--
-**alexandreelise/alexandreelise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Don't let technical problems kill your dreams.
+entrust your project to a web specialist
 
-Here are some ideas to get you started:
+For you
+- Your web developer
+- Your advisor
+- Your Joomla! specialist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I help Small Businesses wanting to improve their current Joomla! website
+add new custom features specific to their domain of expertise.
+
+Does that ring a bell? Yes. Let's move on.
+
+[Learn more](https://coderparlerpartager.fr)
+
+
+![Stats](https://github-readme-stats.vercel.app/api?username=alexandreelise&show_icons=true&theme=radical&count_private=true)
+
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreelise)
+
