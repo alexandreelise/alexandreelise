@@ -16,6 +16,9 @@ Does that ring a bell? Yes. Let's move on.
 [Learn more](https://coderparlerpartager.fr)
 
 
+-----------------------------------------------------
+
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=alexandreelise&show_icons=true&theme=radical&count_private=true)
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreelise)
