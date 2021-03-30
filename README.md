@@ -3,9 +3,9 @@
 ## Don't let technical problems kill your dreams.
 entrust your project to a web specialist
 
-> I make secure extensions for your Small Business 
-> which connects your current Joomla! website with third-party web apps. 
-> Hence multiplying and improve it's capabilities.
+> I make secure extensions for your Small Business <br>
+> which connects your current Joomla! website with third-party web apps. <br>
+> Hence multiplying and improve it's capabilities.<br>
 
 [Learn more](https://coderparlerpartager.fr)
 
