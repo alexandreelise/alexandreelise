@@ -1,17 +1,11 @@
-### Hello Super Joomlers!!! 👋
+# You found your solution
 
-Don't let technical problems kill your dreams.
+## Don't let technical problems kill your dreams.
 entrust your project to a web specialist
 
-For you
-- Your web developer
-- Your advisor
-- Your Joomla! specialist
-
-I help Small Businesses wanting to improve their current Joomla! website
-add new custom features specific to their domain of expertise.
-
-Does that ring a bell? Yes. Let's move on.
+> I make secure extensions for your Small Business 
+> which connects your current Joomla! website with third-party web apps. 
+> Hence multiplying and improve it's capabilities.
 
 [Learn more](https://coderparlerpartager.fr)
 
