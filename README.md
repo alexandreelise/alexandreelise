@@ -1,9 +1,14 @@
-# You found your solution
+# Deep dive into the Joomla! core code
 
-## Don't let technical problems kill your dreams.
+## Find the unknown treasures in Joomla! core code
 
-[Learn more](https://coderparlerpartager.fr)
+> Are you a power user, a developer, or just feeling adventurous?
+> Do you want to master Joomla! code even brain twisting Joomla! use cases and challenges?
+> Coderparlerpartager.fr Joomla! technical blog gives you all of that for free and right in your inbox.
 
+Ready? Let's jump in the volcano...
+
+[Technical Blog](https://coderparlerpartager.fr/en/blog-joomla-specialist)   [Technical Newsletter About Joomla!](https://coderparlerpartager.fr/en/get-newsletter)
 
 -----------------------------------------------------
 
