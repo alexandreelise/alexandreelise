@@ -8,7 +8,7 @@
 
 Ready? Let's jump in the volcano...
 
-[Technical Blog](https://coderparlerpartager.fr/en/blog-joomla-specialist)     |     [Technical Newsletter About Joomla!](https://coderparlerpartager.fr/en/get-newsletter)
+[Technical Blog](https://alexandre-elise.fr/en/blog-joomla-specialist)     |     [Technical Newsletter About Joomla!](https://alexandre-elise.fr/en/get-newsletter)
 
 -----------------------------------------------------
 
