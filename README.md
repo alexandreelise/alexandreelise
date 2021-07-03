@@ -4,7 +4,7 @@
 
 > Are you a power user, a developer, or just feeling adventurous?
 > Do you want to master Joomla! code even brain twisting Joomla! use cases and challenges?
-> Coderparlerpartager.fr Joomla! technical blog gives you all of that for free and right in your inbox.
+> Alex Blog is a Joomla! technical blog which gives you all of that for free and right in your inbox.
 
 Ready? Let's jump in the volcano...
 
