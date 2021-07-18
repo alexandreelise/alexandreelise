@@ -2,9 +2,15 @@
 
 ## Find the unknown treasures in Joomla! core code
 
-> Are you a power user, a developer, or just feeling adventurous?
-> Do you want to master Joomla! code even brain twisting Joomla! use cases and challenges?
-> Alex Blog is a Joomla! technical blog which gives you all of that for free and right in your inbox.
+> Matthew and Mary are two Joomla! nuts but can't find resources that fit their everending need to know more on Joomla!
+>
+> Some tutorials here and there, but nohing that goes really deep on advanced and/or rare topics unknown to casual reader.
+>
+> Matthew and Mary ask themselves this question: Where can we found deep and rare content about Joomla! that meet our need?
+>
+> The answer is right in front of you. The answer is Alex Blog. 
+
+ 
 
 Ready? Let's jump in the volcano...
 
