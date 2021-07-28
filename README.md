@@ -14,7 +14,9 @@
 
 Ready? Let's jump in the volcano...
 
-[Technical Blog](https://alexandre-elise.fr/en/blog-joomla-specialist)     |     [Technical Newsletter About Joomla!](https://alexandre-elise.fr/en/get-newsletter)
+
+[Click here to learn more](https://first.ovh)
+
 
 -----------------------------------------------------
 
