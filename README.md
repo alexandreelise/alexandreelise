@@ -15,7 +15,7 @@
 Ready? Let's jump in the volcano...
 
 
-[Click here to learn more](https://first.ovh)
+[Click here to learn more](https://alexandre-elise.fr)
 
 
 -----------------------------------------------------
