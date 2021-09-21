@@ -21,5 +21,5 @@ Ready? Let's jump in the volcano...
 -----------------------------------------------------
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=alexandreelise&show_icons=true&theme=radical&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=alexandreelise&show_icons=true&theme=tokyonight&count_private=true)
 
