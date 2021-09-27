@@ -17,7 +17,7 @@ Ready? Let's jump in the volcano...
 
 [Click here to learn more](https://alexapi.cloud)
 
-
+<a href="https://joomla.stackexchange.com/users/9588/mralexandrelise"><img src="https://joomla.stackexchange.com/users/flair/9588.png" width="208" height="58" alt="profile for mralexandrelise at Joomla Stack Exchange, Q&amp;A for Joomla! administrators, users, developers and designers" title="profile for mralexandrelise at Joomla Stack Exchange, Q&amp;A for Joomla! administrators, users, developers and designers"></a>
 -----------------------------------------------------
 
 
