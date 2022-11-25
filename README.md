@@ -19,6 +19,7 @@ In English:
 
 * Website: https://alexandree.io/
 * Contact: https://alexandree.io/say-hello
+* Technical Blog: https://alexandree.io/blog-joomla-specialist
 * Newsletter: https://alexandree.io/get-newsletter
 * Happy Clients: https://g.page/r/CTOrsttKakWDEBA
 ---------------------------------------------------
@@ -29,6 +30,7 @@ En français
 
 * Site web: https://alexandree.io/fr
 * Contact: https://alexandree.io/fr/contact
+* Blog Technique: https://alexandree.io/fr/blog-developpeur-joomla
 * Newsletter: https://alexandree.io/fr/newsletter
 * Clients Satisfaits: https://g.page/r/CTOrsttKakWDEBA
 -------------------------------------------------------
