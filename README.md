@@ -9,6 +9,12 @@ Unleash The True Potential Of Your Joomla! Website With The Power Of Web Service
 ![Stats](https://github-readme-stats.vercel.app/api?username=alexandreelise&show_icons=true&theme=tokyonight&count_private=true)
 
 
+## VIDEO
+
+> Video on Alex Tv channel with Alexandre Elisé presenting Joomla! Api WITHOUT Super User : Least Privilege Principle
+
+[![Video on Alex Tv channel with Alexandre Elisé presenting Joomla! Api WITHOUT Super User : Least Privilege Principle](https://img.youtube.com/vi/STw0a7sOtEU/maxresdefault.jpg)](https://www.youtube.com/watch?v=STw0a7sOtEU)
+
 ----------------------
 
 ## CONTACT
