@@ -11,9 +11,9 @@ Unleash The True Potential Of Your Joomla! Website With The Power Of Web Service
 
 ## VIDEO
 
-> Video on Alex Tv channel with Alexandre Elisé presenting Joomla! Api WITHOUT Super User : Least Privilege Principle
+> Video on Api Adept channel with Alexandre Elisé presenting Joomla! Api WITHOUT Super User : Least Privilege Principle
 
-[![Video on Alex Tv channel with Alexandre Elisé presenting Joomla! Api WITHOUT Super User : Least Privilege Principle](https://img.youtube.com/vi/STw0a7sOtEU/maxresdefault.jpg)](https://www.youtube.com/watch?v=STw0a7sOtEU)
+[![Video on Api Adept channel with Alexandre Elisé presenting Joomla! Api WITHOUT Super User : Least Privilege Principle](https://img.youtube.com/vi/STw0a7sOtEU/maxresdefault.jpg)](https://www.youtube.com/watch?v=STw0a7sOtEU)
 
 ----------------------
 
@@ -47,8 +47,8 @@ Social:
 * Twitter: https://twitter.com/mralexandrelise
 * Linkedin: https://www.linkedin.com/in/alexandree
 * Linkedin Company: https://www.linkedin.com/company/mralexandrelise
-* Youtube: [Alex Tv](https://www.youtube.com/channel/UCCya8rIL-PVHm8Mt4QPW-xw?sub_confirmation=1)
-* Podcast: [Alex Podcast](https://anchor.fm/alexpodcast)
-* Story: [Alex Story](https://story.alexandree.io)
+* Youtube: [Api Adept](https://www.youtube.com/channel/UCCya8rIL-PVHm8Mt4QPW-xw?sub_confirmation=1)
+* Podcast: [Api Adept](https://apiadept.com/fr/blog-podcast-fr)
+* Story: [Chronitoria](https://chronitoria.com)
 * JoomlaStackExchange: https://joomla.stackexchange.com/users/9588/mralexandrelise
 * Slides: https://slides.com/mralexandrelise
