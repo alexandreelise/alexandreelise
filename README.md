@@ -23,7 +23,6 @@ In English:
 > Get in touch on social media or contact me directly
 
 * Website: https://apiadept.com/
-* Contact: https://apiadept.com/say-hello
 * Technical Blog: https://apiadept.com/blog-joomla-specialist
 * Newsletter: https://apiadept.com/get-newsletter
 ---------------------------------------------------
@@ -33,7 +32,6 @@ En français
 > Contactez-moi directement ou bien sur les réseaux sociaux
 
 * Site web: https://apiadept.com/fr
-* Contact: https://apiadept.com/fr/contact
 * Blog Technique: https://apiadept.com/fr/blog-developpeur-joomla
 * Newsletter: https://apiadept.com/fr/newsletter
 -------------------------------------------------------
