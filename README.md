@@ -1,8 +1,10 @@
 # Your Website. Augmented.
 
-> **Supercharge** your Joomla Website with the Power of **APIs** 
+> [!TIP]
+> Don't let technical problems KILL your AMBITIONS. 
 
-It's time to be human again. Let automation do the rest. [Learn more](https://apiadept.com)
+> [!NOTE]
+> Research and Development with PHP and Joomla. [Learn more](https://apiadept.com)
 
 -----------------------------------------------------
 
