@@ -4,7 +4,7 @@
 > Don't let technical problems KILL your AMBITIONS. 
 
 > [!NOTE]
-> [Learn more](https://apiadept.com)
+> [Learn more](https://github.com/alexandreelise/apiadept)
 
 -----------------------------------------------------
 
