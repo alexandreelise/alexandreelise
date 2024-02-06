@@ -1,4 +1,4 @@
-# Hello Super Joomlers!
+# Saluuuuuuuuuuuuute Super Joomlers!
 
 > [!TIP]
 > Don't let technical problems KILL your AMBITIONS. 
