@@ -19,7 +19,7 @@
 ## Latest work in progress
 - [routefinder](https://github.com/alexandreelise/routefinder)
 
-## Basic projects
+## POC(Proof of Concept)
 - [com_helloapi](https://github.com/alexandreelise/com_helloapi)
 - [plg_webservices_helloapi](https://)
 
