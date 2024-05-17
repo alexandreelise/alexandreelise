@@ -8,7 +8,6 @@
 > Knowledge should flow like water through time and space. Don't break the flow...
 
 ## API Tech Blog Mainly About Joomla Web Services
-- Latest article: [Least Privilege Principle - Joomla Web Services WITHOUT Super User](https://github.com/alexandreelise/apiadept/blob/b5b0860755045eb7f3d7f6e2e57a708580f46a8e/least-privilege-principle-no-super-user-joomla-webservices.md)
 - [API Tech Blog](https://github.com/alexandreelise/apiadept)
 
 ## Repositories you loved
