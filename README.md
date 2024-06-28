@@ -19,7 +19,8 @@
 - [routefinder](https://github.com/alexandreelise/routefinder) : Fetch Joomla core repo, extract Web Services routes, generate OpenAPI.yaml 
 
 ## POC(Proof of Concept)
-- [com_helloapi](https://github.com/alexandreelise/com_helloapi) : Example custom component with Web Services
+- [com_ddd](https://github.com/alexandreelise/com_ddd) : Example custom Joomla component using Domain-driven Design and Hexagonal Architecture
+- [com_helloapi](https://github.com/alexandreelise/com_helloapi) : Example custom Joomla component with Web Services
 - [plg_webservices_helloapi](https://github.com/alexandreelise/plg_webservices_helloapi) : Example custom webservices plugin used with [com_helloapi](https://github.com/alexandreelise/com_helloapi)
 
 ## Experimental projects
