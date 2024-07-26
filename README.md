@@ -7,6 +7,9 @@
 > If it is useful to you. Add a star to the corresponding repository and share it to someone that it might be useful too.
 > Knowledge should flow like water through time and space. Don't break the flow...
 
+## Jouer Cloud : Multilingual Online Casual Gaming Platform made with Joomla
+[2024-07-26 Jouer Cloud](https://jouer.cloud) : Side project still work in progress online casual gaming platform made with Joomla
+
 ## API Tech Blog Mainly About Joomla Web Services
 - [API Tech Blog](https://github.com/alexandreelise/apiadept)
 
