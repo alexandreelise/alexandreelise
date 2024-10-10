@@ -1,11 +1,7 @@
-# Saluuuuute Super Joomlers!
+# Api Adept : Your Website. Augmented.
 
 > [!TIP]
 > Don't let technical problems KILL your AMBITIONS. 
-
-> [!NOTE]
-> If it is useful to you. Add a star to the corresponding repository and share it to someone that it might be useful too.
-> Knowledge should flow like water through time and space. Don't break the flow...
 
 ## Jouer Cloud : Multilingual Online Casual Gaming Platform made with Joomla
 [2024-07-26 Jouer Cloud](https://jouer.cloud) : https://jouer.cloud a side project still work in progress online casual gaming platform made with Joomla
