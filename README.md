@@ -25,4 +25,6 @@
 
 - https://bsky.app/profile/jouercloud.bsky.social
 
+- https://www.linkedin.com/showcase/107414502
+
 
