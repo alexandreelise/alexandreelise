@@ -1,13 +1,24 @@
-# JouerCloud : Augmented Game Ideas
+# Api Adept : Your Website. Augmented.
 
 <pre>
 
-      __  __     ____         _____                          ______                              
-   / / / /__  / / /___     / ___/__  ______  ___  _____   / ____/___ _____ ___  ___  __________
-  / /_/ / _ \/ / / __ \    \__ \/ / / / __ \/ _ \/ ___/  / / __/ __ `/ __ `__ \/ _ \/ ___/ ___/
- / __  /  __/ / / /_/ /   ___/ / /_/ / /_/ /  __/ /     / /_/ / /_/ / / / / / /  __/ /  (__  ) 
-/_/ /_/\___/_/_/\____/   /____/\__,_/ .___/\___/_/      \____/\__,_/_/ /_/ /_/\___/_/  /____/  
-                                   /_/                                                         
+
+
+
+      ___           ___                              ___          _____          ___           ___               
+     /  /\         /  /\      ___                   /  /\        /  /::\        /  /\         /  /\        ___   
+    /  /::\       /  /::\    /  /\                 /  /::\      /  /:/\:\      /  /:/_       /  /::\      /  /\  
+   /  /:/\:\     /  /:/\:\  /  /:/                /  /:/\:\    /  /:/  \:\    /  /:/ /\     /  /:/\:\    /  /:/  
+  /  /:/~/::\   /  /:/~/:/ /__/::\               /  /:/~/::\  /__/:/ \__\:|  /  /:/ /:/_   /  /:/~/:/   /  /:/   
+ /__/:/ /:/\:\ /__/:/ /:/  \__\/\:\__           /__/:/ /:/\:\ \  \:\ /  /:/ /__/:/ /:/ /\ /__/:/ /:/   /  /::\   
+ \  \:\/:/__\/ \  \:\/:/      \  \:\/\          \  \:\/:/__\/  \  \:\  /:/  \  \:\/:/ /:/ \  \:\/:/   /__/:/\:\  
+  \  \::/       \  \::/        \__\::/           \  \::/        \  \:\/:/    \  \::/ /:/   \  \::/    \__\/  \:\ 
+   \  \:\        \  \:\        /__/:/             \  \:\         \  \::/      \  \:\/:/     \  \:\         \  \:\
+    \  \:\        \  \:\       \__\/               \  \:\         \__\/        \  \::/       \  \:\         \__\/
+     \__\/         \__\/                            \__\/                       \__\/         \__\/              
+
+
+      
   
 </pre>
 
@@ -20,22 +31,20 @@
 
 ## Let's connect
 
-- https://jouer.cloud
+- https://apiadept.com
 
-- https://www.youtube.com/@JouerCloud
+- https://www.linkedin.com/company/apiadept
 
-- https://www.facebook.com/JouerCloud
+- https://www.youtube.com/@ApiAdept
 
-- https://x.com/JouerCloud
+- https://www.facebook.com/apiadept/
 
-- https://twitch.tv/jouercloud
+- https://x.com/mralexandrelise
 
-- https://www.instagram.com/jouercloud
+- https://github.com/mralexandrelise
 
-- https://github.com/JouerCloud
+- https://bsky.app/profile/mralexandrelise.bsky.social
 
-- https://bsky.app/profile/jouercloud.bsky.social
 
-- https://www.linkedin.com/showcase/107414502
 
 
