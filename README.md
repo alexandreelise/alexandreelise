@@ -29,6 +29,22 @@
 ![GitHub followers](https://img.shields.io/github/followers/alexandreelise?style=flat)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCCya8rIL-PVHm8Mt4QPW-xw?style=flat&label=YouTube%20%40ApiAdept%20vues)
 
+## TOP 10 - Contributions
+
+- https://github.com/alexandreelise/j4x-api-collection
+- https://github.com/alexandreelise/j4x-api-examples
+- https://github.com/alexandreelise/frankenphp-joomla
+- https://github.com/alexandreelise/routefinder
+- https://github.com/alexandreelise/com_helloapi
+- https://github.com/alexandreelise/plg_webservices_helloapi
+- https://github.com/alexandreelise/com_ddd
+- https://github.com/alexandreelise/plg_system_jxj
+- https://github.com/alexandreelise/plg_system_jxc
+- https://github.com/alexandreelise/plg_system_jiji
+
+
+
+
 ## Let's connect
 
 - https://apiadept.com
@@ -45,6 +61,26 @@
 
 - https://bsky.app/profile/mralexandrelise.bsky.social
 
+
+## Geek or Gamer? There is a link for that...
+
+- https://jouer.cloud
+
+- https://www.youtube.com/@JouerCloud
+
+- https://www.facebook.com/JouerCloud
+
+- https://x.com/JouerCloud
+
+- https://twitch.tv/jouercloud
+
+- https://www.instagram.com/jouercloud
+
+- https://github.com/JouerCloud
+
+- https://bsky.app/profile/jouercloud.bsky.social
+
+- https://www.linkedin.com/showcase/107414502
 
 
 
