@@ -42,7 +42,14 @@
 - https://github.com/alexandreelise/plg_system_jxc
 - https://github.com/alexandreelise/plg_system_jiji
 
+## [fr-FR] Joomla Web Services : Le Mythe du Super Admin
 
+- https://youtu.be/-5et3U47m3w?si=_KhnkcqLvi-CLT4n
+
+
+## What they say about Joomla Web Services
+
+- https://youtube.com/playlist?list=PLsg93PS_2NeL850YZFlAi1Eb7hwxETNkX&si=wFJFUfFmXyPboee9
 
 
 ## Let's connect
