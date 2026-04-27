@@ -31,21 +31,22 @@
 
 ## TOP - Contributions
 
-- https://github.com/alexandreelise/j4x-api-collection
-- https://github.com/alexandreelise/j4x-api-examples
-- https://github.com/alexandreelise/com_ddd
-- https://github.com/alexandreelise/frankenphp-joomla
+- https://github.com/alexandreelise/j4x-api-collection : More than 100+ endpoints of Joomla! Web Services / API in one Postman Collection.
+- https://github.com/alexandreelise/j4x-api-examples   : Some examples of how to use Joomla Web Services / API in a self-contained single PHP file
+- https://github.com/alexandreelise/com_ddd            : Example custom Joomla component structure using Domain Driven Design recommendations
+- https://github.com/alexandreelise/frankenphp-joomla  : Allows to run Joomla! on FrankenPHP a Go-powered modern application server
+- https://github.com/alexandreelise/caps   : Restricted linux capabilites (segcomp) ready to use Docker compose template 
 
-## [fr-FR] Joomla Web Services : Le Mythe du Super Admin
+## [fr-FR] Joomla! Web Services : Le Mythe du Super Admin
 
 - https://youtu.be/-5et3U47m3w?si=_KhnkcqLvi-CLT4n
 
-## BONUS Content - Uncharted territories in Joomla core - Hidden treasures of Joomla
+## BONUS Content - Uncharted territories in Joomla! core - Hidden treasures of Joomla
 
 - fr-FR : https://apiadept.com/fr/bonus-pour-vous.html
 - en-GB : https://apiadept.com/bonus-content.html
 
-## What they say about Joomla Web Services
+## What they say about Joomla! Web Services
 
 - https://youtube.com/playlist?list=PLsg93PS_2NeL850YZFlAi1Eb7hwxETNkX&si=wFJFUfFmXyPboee9
 
