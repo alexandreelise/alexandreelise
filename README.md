@@ -41,8 +41,7 @@
 
 - https://youtu.be/-5et3U47m3w?si=_KhnkcqLvi-CLT4n
 
-## BONUS Content - Uncharted territories in Joomla! core - Hidden treasures of Joomla
-
+## BONUS Content : Uncharted territories in Joomla! Core a.k.a Joomla! Core Internals...
 - fr-FR : https://apiadept.com/fr/bonus-pour-vous.html
 - en-GB : https://apiadept.com/bonus-content.html
 
