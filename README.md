@@ -35,7 +35,8 @@
 - https://github.com/alexandreelise/j4x-api-examples   : Some examples of how to use Joomla Web Services / API in a self-contained single PHP file
 - https://github.com/alexandreelise/com_ddd            : Example custom Joomla component structure using Domain Driven Design recommendations
 - https://github.com/alexandreelise/frankenphp-joomla  : Allows to run Joomla! on FrankenPHP a Go-powered modern application server
-- https://github.com/alexandreelise/caps   : Restricted linux capabilites (segcomp) ready to use Docker compose template 
+- https://github.com/alexandreelise/caps   : Restricted linux capabilites (segcomp) ready to use Docker compose template
+- https://github.com/alexandreelise/inference-server-infrastructure : An attempt to create a Cloud Native infrastructure for RubixML Server 
 
 ## [fr-FR] Joomla! Web Services : Le Mythe du Super Admin
 
