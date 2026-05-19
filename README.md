@@ -36,7 +36,8 @@
 - https://github.com/alexandreelise/com_ddd            : Example custom Joomla component structure using Domain Driven Design recommendations
 - https://github.com/alexandreelise/frankenphp-joomla  : Allows to run Joomla! on FrankenPHP a Go-powered modern application server
 - https://github.com/alexandreelise/caps   : Enforced system resources limits example ready to use as a Docker compose template
-- https://github.com/alexandreelise/inference-server-infrastructure : An attempt to create a Cloud Native infrastructure for RubixML Server 
+- https://github.com/alexandreelise/inference-server-infrastructure : An attempt to create a Cloud Native infrastructure for RubixML Server
+- https://github.com/alexandreelise/rubixml-numpower-php-ext-containerized : Ready-to-use RubixML numpower containerized 
 
 ## [fr-FR] Joomla! Web Services : Le Mythe du Super Admin
 
