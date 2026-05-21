@@ -32,6 +32,7 @@
 ## TOP - Contributions
 
 - https://github.com/alexandreelise/rubixml-numpower-php-ext-containerized : Ready-to-use RubixML numpower containerized
+- https://github.com/alexandreelise/svm-for-php : Support Vector Machines (SVM) for PHP 8.5 and up using PIE extension installer
 - https://github.com/alexandreelise/inference-server-infra : An attempt to create a Cloud Native infrastructure for RubixML Server
 - https://github.com/alexandreelise/caps                   : Enforced system resources limits example ready to use as a Docker compose template
 - https://github.com/alexandreelise/com_ddd                : Example custom Joomla component structure using Domain Driven Design recommendations
