@@ -92,5 +92,10 @@
 
 - https://www.linkedin.com/showcase/107414502
 
+## Audio Addict? Feel the voice here: Api Adept Audios (A.A.A)
 
+- https://soundcloud.com/mralexandrelise
+- https://open.spotify.com/show/03410LMKkbinHZm66KjKpm
+- https://music.amazon.fr/podcasts/291478fe-19a1-4a44-9e02-8d3dac4dc9e4/api-adept-audio
+- https://podcasts.apple.com/us/podcast/api-adept-audio/id6797689059
 
