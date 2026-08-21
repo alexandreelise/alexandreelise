@@ -29,7 +29,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/alexandreelise?style=flat)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCCya8rIL-PVHm8Mt4QPW-xw?style=flat&label=YouTube%20%40ApiAdept%20vues)
 
-## Api Adept Area : Dream your life. Live your dreams.
+## Api Adept Anywhere : Dream your life. Live your dreams.
 https://github.com/alexandreelise/apiadept
 
 ## TOP - Contributions
@@ -49,7 +49,7 @@ https://github.com/alexandreelise/apiadept
 
 - https://youtu.be/-5et3U47m3w?si=_KhnkcqLvi-CLT4n
 
-## BONUS Content : Uncharted territories in Joomla! Core a.k.a Joomla! Core Internals...
+## BONUS Content
 - fr-FR : https://apiadept.com/fr/bonus-pour-vous.html
 - en-GB : https://apiadept.com/bonus-content.html
 
@@ -76,7 +76,6 @@ https://github.com/alexandreelise/apiadept
 
 ## Api Adept Area (A.A.A) : We want more...
 - https://www.tiktok.com/@mralexandrelise                  : Api Adept Area on TikTok
-- https://whatsapp.com/channel/0029VbDNn5h4IBhH8mU3Qm3K    : Api Adept Area on WhatsApp
 
 ## Audio Addict? Feel the voice here: Api Adept Audios (A.A.A)
 
