@@ -62,11 +62,9 @@ https://github.com/alexandreelise/apiadept
 
 - https://apiadept.com
 
-- https://www.linkedin.com/company/apiadept
+- https://www.linkedin.com/in/mralexandrelise
 
 - https://www.youtube.com/@ApiAdept
-
-- https://www.facebook.com/apiadept/
 
 - https://x.com/mralexandrelise
 
@@ -101,8 +99,6 @@ https://github.com/alexandreelise/apiadept
 - https://jouer.cloud
 
 - https://www.youtube.com/@JouerCloud
-
-- https://www.facebook.com/JouerCloud
 
 - https://x.com/JouerCloud
 
