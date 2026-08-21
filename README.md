@@ -30,7 +30,7 @@
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCCya8rIL-PVHm8Mt4QPW-xw?style=flat&label=YouTube%20%40ApiAdept%20vues)
 
 ## Api Adept Anywhere : Dream your life. Live your dreams.
-https://github.com/alexandreelise/apiadept
+[Api Adept Anywhere](https://apiadept.com/bonus-content/api-adept-anywhere.html)
 
 ## TOP - Contributions
 
